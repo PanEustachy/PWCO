@@ -20,7 +20,7 @@ docker run -p 8081:8081 weather-server
     logi pokazują się na tej samej stronie internetowej co informacje o pogodzie
 
 ![wybor miasta](wybor_miasta.png)
-![logi](img/logi.png)
+![logi](logi.png)
 ## d. sprawdzenia, ile warstw posiada zbudowany obraz oraz jaki jest rozmiar obrazu.
 ```bash
     docker history weather-server
